@@ -1,2 +1,3 @@
 Hello Git
 Another line of commit
+Third line of commit
