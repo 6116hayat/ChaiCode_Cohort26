@@ -1,4 +1,6 @@
-## Git for Beginners: Basics and Essential Commands
+![CoverImage]()
+
+<h1 align="center"> Git for Beginners: Basics and Essential Commands </h1>
 
 ### 🎙️<u>Introduction</u>
 
@@ -82,7 +84,7 @@ Git gives developers an unseen confidence — a backbone of modern software deve
 
 ### 🧩 <u> Git Basics and Commands </u>
 
-![Git-Diagram]()
+![Git-Diagram](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9s9ykhvcmrlibtw5ryv2.jpg)
 
 (This is the main ingredient of this Blog, I assume that is why you are here)
 
@@ -153,7 +155,7 @@ You can create files using your IDE or terminal — both work.
 
 2. Initialize Git:
 
-   ![Git-Init]()
+   ![Git-Init](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsezqh5zsclb94z0v32n.png)
 
    ```cmd
    git init
@@ -165,7 +167,7 @@ You can create files using your IDE or terminal — both work.
 
 3. Create File:
 
-   ![Git_echo]()
+   ![Git_echo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz3c6yyousrchkxfq81e.png)
 
    ```cmd
    echo "Hello Git" > hello.txt
@@ -177,7 +179,7 @@ You can create files using your IDE or terminal — both work.
      (If a file hello.txt is not present, it creates one for us)
    - You can change the file name, or the content under “ “ according to your needs.
 
-   ![Git-echo2]()
+   ![Git-echo2](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3q2v4eq5j36nynmoap6.png)
 
    ```cmd
    echo "Another Line" >> hello.txt
@@ -188,7 +190,7 @@ You can create files using your IDE or terminal — both work.
 
 4. Check Status:
 
-   ![Git-Status]()
+   ![Git-Status](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4g2qk971nm5c42d5loe7.png)
 
    ```cmd
    git status
@@ -199,7 +201,7 @@ You can create files using your IDE or terminal — both work.
 
 5. Stage Changes:
 
-   ![Git-Add]()
+   ![Git-Add](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/96kmoc2b299wlq3qix9r.png)
 
    ```cmd
    git add hello.txt
@@ -218,7 +220,7 @@ You can create files using your IDE or terminal — both work.
 
 6. Commit changes:
 
-   ![Git-commit]()
+   ![Git-commit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v77yp1hvd8c12sq9i2y6.png)
 
    ```cmd
    git commit -m "First commit: Add hello.txt"
@@ -243,9 +245,9 @@ These commands comes in handy, being a developer I have used a lot. If you are d
 
 1. Coding logs:
 
-   ![Git-Log1]()
+   ![Git-Log1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qd5hn665nl53zat0xxk6.png)
 
-   ![Git-Log2]()
+   ![Git-Log2](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/geyg5n8lcx2hrs2nvan4.png)
 
    ```cmd
    git log
@@ -257,7 +259,7 @@ These commands comes in handy, being a developer I have used a lot. If you are d
 
 2. Commit difference:
 
-   ![Git-Diff]()
+   ![Git-Diff](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtp3dorb007r8byjs9z7.png)
 
    ```cmd
    git diff
@@ -271,7 +273,7 @@ These commands comes in handy, being a developer I have used a lot. If you are d
 
    - Works before `git add` . If you run it after staging, it returns nothing because changes are already in staging area.
 
-   ![Git-CommitDiff]()
+   ![Git-CommitDiff](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etefx7fcpo8hp9fhvcbk.png)
 
    ```cmd
    git diff commit1 commit2
@@ -281,7 +283,7 @@ These commands comes in handy, being a developer I have used a lot. If you are d
 
 3. Branches:
 
-   ![Git-Branch]()
+   ![Git-Branch](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7o7ymjosy7ck503fe99k.png)
 
    Creating Branch
 
