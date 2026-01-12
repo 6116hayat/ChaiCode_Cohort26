@@ -1,4 +1,4 @@
-![CoverImage]()
+![CoverImage](./BlogResources/Blog1Cover.jpg)
 
 <h1 align="center"> Why Version Control Exists: The Pendrive Problem </h1>
 
