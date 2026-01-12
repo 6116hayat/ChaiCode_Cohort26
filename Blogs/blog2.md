@@ -1,4 +1,4 @@
-![CoverImage]()
+![CoverImage](./BlogResources/Blog2Cover.jpg)
 
 <h1 align="center"> Git for Beginners: Basics and Essential Commands </h1>
 
