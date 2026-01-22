@@ -1,8 +1,17 @@
-<h1 align="center">☕ ChaiCode Cohort 26 — My Learning Journey</h1>
+<h1 align="center">
+  <img src="ChaiLogo.png" alt="ChaiCode Logo" width="40">
+  ChaiCode Cohort 26 — My Learning Journey
+</h1>
 
 <p align="center">
   A living repository documenting my learnings, experiments, and growth during <b>ChaiCode Cohort 26</b>.
 </p>
+
+<div align="center">
+
+[![Hits](https://hits.sh/github.com/6116hayat/ChaiCode_Cohort26.svg?style=for-the-badge&label=Visitors&color=5a2300&labelColor=ff9231)](https://hits.sh/github.com/6116hayat/ChaiCode_Cohort26/)
+
+</div>
 
 ---
 
