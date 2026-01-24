@@ -2,6 +2,8 @@
 
 <h1 align="center">Inside Git: How It Works and the Role of the .git Folder</h1>
 
+[Blog Link](https://dev.to/6116hayat/inside-git-how-it-works-and-the-role-of-the-git-folder-lfm)
+
 ### 🎙️ Introduction
 
 Hey Reader — I didn’t see you miles away in distance, but in experience.
