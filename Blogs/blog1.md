@@ -2,6 +2,8 @@
 
 <h1 align="center"> Why Version Control Exists: The Pendrive Problem </h1>
 
+[Blog Link](https://dev.to/6116hayat/why-version-control-exists-the-pendrive-problem-5aa3)
+
 ## INTRODUCTION:
 
 (aka: When developers lived in the fear)

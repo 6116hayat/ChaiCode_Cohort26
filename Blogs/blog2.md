@@ -2,6 +2,8 @@
 
 <h1 align="center"> Git for Beginners: Basics and Essential Commands </h1>
 
+[Blog Link](https://dev.to/6116hayat/git-for-beginners-basics-and-essential-commands-1omj)
+
 ### 🎙️<u>Introduction</u>
 
 We’re back with another blog — with our recent star of tech world: **Git ⭐.**
@@ -91,24 +93,20 @@ Git gives developers an unseen confidence — a backbone of modern software deve
 Let’s breakdown the key concepts of Git in beginner-friendly terms:
 
 1. Repository (Repo)
-
    - Most used Git term, among developers
    - Home-ground for all the code files, folders, resources
    - This is where Git stores all the files and their history
    - It contains `.git` folder = Git’s brain
 
 2. Working Directory:
-
    - This is the active repo, where you actively saving/pushing code files & folders.
    - This directory contains the files you actively edit before Git tracks them.
 
 3. Staging Area:
-
    - Before actually pushing the code, we get to see what files or folders will get pushed.
    - Think of it like a snapshot before actually changes in GitHub repo.
 
 4. Commit:
-
    - A snapshot of your project at specific moment.
    - Think of it like “saving point” in a game, to respawn later and continue
    - Comes with a message (future-you-says thanks)
@@ -116,14 +114,12 @@ Let’s breakdown the key concepts of Git in beginner-friendly terms:
    (Believe when I say to type a message before any commit, because later you’ll forget what you changed. Make you commit messages meaningful)
 
 5. Branch:
-
    - A parallel timeline for your code.
    - You can experiment your coder instinct here without disturbing the main timeline.
 
    (Imagine it like a clone of yourself, respawned in alternate universe same as yours. Now you can do things with that clone too.)
 
 6. Head:
-
    - Your current position in the codebase.
      (Git’s way of saying “this is where you are right now”)
    - Simple way: A pointer to current commit.
@@ -267,7 +263,6 @@ These commands comes in handy, being a developer I have used a lot. If you are d
 
    - `diff`: stands for difference
    - Shows changes you've made in files but haven't added it. You'll see the line differences.
-
      - `-` (minus) → content removed
      - `+` (plus) → content added
 
