@@ -1,7 +1,7 @@
 ![CoverImage](./BlogResources/Blog8Cover.jpg)
 
 <div align="center">
-<h1>TCP vs UDP: When to Use What, and How TCP Relates to HTTP</h1>
+<h1>TCP 3-way Handshake</h1>
 </div>
 
 [Blog link](https://dev.to/6116hayat/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-577)
